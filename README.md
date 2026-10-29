@@ -41,5 +41,5 @@ I work with **Rust** and **C++**, explore desktop and systems programming, and k
 | [**rim**](https://github.com/zooeywm/rim) | A terminal-first editor prototype in Rust, with persistent undo/redo and session recovery. |
 | [**Rabbit**](https://github.com/zooeywm/rabbit) | A high-performance remote desktop application in Rust. |
 | [**Knowledge Base**](https://zooeywm.github.io/knowledge-base/) | My personal knowledge base. |
-| [**nix-config**](https://github.com/zooeywm/nix-config) | A portable SSH CLI environment powered by Nix and dotfiles. |
+| [**zloxer**](https://github.com/zooeywm/zloxer) | My first interpreter, written in Rust. |
 | [**dotfiles**](https://github.com/zooeywm/dotfiles) | My personal environment configuration. |
