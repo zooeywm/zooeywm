@@ -19,8 +19,8 @@ I work with **Rust** and **C++**, explore desktop and systems programming, and k
 <p align="center">
   <a href="https://github.com/zooeywm?tab=overview">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=zooeywm&amp;show_icons=true&amp;hide_rank=true&amp;theme=dark_github&amp;hide_border=true&amp;disable_animations=true&amp;card_width=450" />
-      <img width="49%" src="https://github-stats-extended.vercel.app/api?username=zooeywm&amp;show_icons=true&amp;hide_rank=true&amp;theme=light_github&amp;hide_border=true&amp;disable_animations=true&amp;card_width=450" alt="zooeywm's GitHub contribution statistics" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=zooeywm&amp;show_icons=true&amp;hide=contribs&amp;show=all_time_contribs&amp;hide_rank=true&amp;theme=dark_github&amp;hide_border=true&amp;disable_animations=true&amp;card_width=450" />
+      <img width="49%" src="https://github-stats-extended.vercel.app/api?username=zooeywm&amp;show_icons=true&amp;hide=contribs&amp;show=all_time_contribs&amp;hide_rank=true&amp;theme=light_github&amp;hide_border=true&amp;disable_animations=true&amp;card_width=450" alt="zooeywm's GitHub contribution statistics" />
     </picture>
   </a>
   <a href="https://github.com/zooeywm?tab=repositories">
